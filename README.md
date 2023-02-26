@@ -1,2 +1,1 @@
-My first readme
-Collaboration: Be upto date
+My first readme. Updated
